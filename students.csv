@@ -1,0 +1,11 @@
+student_id,name,age,city,math_score,science_score,english_score
+1,Arun,20,Chennai,85,78,92
+2,Priya,21,Coimbatore,90,88,85
+3,Karthik,19,Madurai,75,82,79
+4,Divya,22,Chennai,88,91,87
+5,Ravi,20,Salem,65,70,68
+6,Meena,21,Trichy,95,89,93
+7,Suresh,20,Chennai,72,68,75
+8,Anitha,22,Coimbatore,80,85,82
+9,Vijay,19,Madurai,60,55,63
+10,Kavya,21,Salem,,80,88
